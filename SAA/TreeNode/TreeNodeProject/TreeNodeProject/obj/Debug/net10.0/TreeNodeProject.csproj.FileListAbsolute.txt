@@ -1,0 +1,14 @@
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\bin\Debug\net10.0\TreeNodeProject.exe
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\bin\Debug\net10.0\TreeNodeProject.deps.json
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\bin\Debug\net10.0\TreeNodeProject.runtimeconfig.json
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\bin\Debug\net10.0\TreeNodeProject.dll
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\bin\Debug\net10.0\TreeNodeProject.pdb
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\obj\Debug\net10.0\TreeNodeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\obj\Debug\net10.0\TreeNodeProject.AssemblyInfoInputs.cache
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\obj\Debug\net10.0\TreeNodeProject.AssemblyInfo.cs
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\obj\Debug\net10.0\TreeNodeProject.csproj.CoreCompileInputs.cache
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\obj\Debug\net10.0\TreeNodeProject.dll
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\obj\Debug\net10.0\refint\TreeNodeProject.dll
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\obj\Debug\net10.0\TreeNodeProject.pdb
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\obj\Debug\net10.0\TreeNodeProject.genruntimeconfig.cache
+C:\Programing\SAA\TreeNode\TreeNodeProject\TreeNodeProject\obj\Debug\net10.0\ref\TreeNodeProject.dll
